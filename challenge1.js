@@ -6,6 +6,8 @@ const Stack = require('./src/common/Stack');
 
 // initialize stack
 const s = new Stack();
+console.log(s);
+
 
 // add element 1
 s.push("First Element");
@@ -23,4 +25,4 @@ s.pop();
 console.log(s.peek());
 
 // get stack size
-console.log(s.size());
+console.log(s.count());
