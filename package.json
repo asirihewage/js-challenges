@@ -1,0 +1,31 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "Coding Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test:challenge1": "jest __tests__",
+    "run:challenge1": "node challenge1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asirihewage/Coding-Challenges.git"
+  },
+  "keywords": [
+    "coding",
+    "challenges"
+  ],
+  "author": "Asiri Hewage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asirihewage/Coding-Challenges/issues"
+  },
+  "homepage": "https://github.com/asirihewage/Coding-Challenges#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0",
+    "snyk": "^1.695.0"
+  }
+}
