@@ -5,7 +5,8 @@ WITH THE FOLLOWING MEMBERS
 ```javascript
 const stack = new Stack() 
 stack.push(item) stack.pop() 
-stack.count stack.peek() // Read the top item
+stack.count()
+stack.peek() // Read the top item
 ```
 CONDITIONS: 
 - count should not be an instance member 

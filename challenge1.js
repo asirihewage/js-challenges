@@ -21,3 +21,6 @@ s.pop();
 
 // get stack top
 console.log(s.peek());
+
+// get stack size
+console.log(s.size());

@@ -42,4 +42,8 @@ module.exports = class Stack {
     peek(){
         return this.first;
     }
+
+    count(){
+        return this.size;
+    }
 }
