@@ -18,4 +18,9 @@ ANSWER:
 ```shell script
 npm run run:challenge1
 ```
+
+UNIT TEST
+```shell script
+npm run test:challenge1
+```
 ## Friday Challenge : 02
