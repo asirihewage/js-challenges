@@ -16,6 +16,6 @@ CONDITIONS:
 
 ANSWER: 
 ```shell script
-npm run challenge1
+npm run run:challenge1
 ```
 ## Friday Challenge : 02
