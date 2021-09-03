@@ -4,7 +4,8 @@ DEFINE A STACK DATA STRUCTURE USING JAVASCRIPT
 WITH THE FOLLOWING MEMBERS 
 ```javascript
 const stack = new Stack() 
-stack.push(item) stack.pop() 
+stack.push(item) 
+stack.pop() 
 stack.count()
 stack.peek() // Read the top item
 ```
